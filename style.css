@@ -3,7 +3,7 @@ body {
     margin: 0px;
 }
 
-.slogan-text {
+.text {
     text-align: center;
     font-size: 50px;
     font-weight: 800;
@@ -33,4 +33,31 @@ body {
     padding: 10px 30px;
     border-radius: 5px;
 
+}
+
+.donation-currency {
+    display: flex;
+    margin-left: 700px;
+}
+
+.Currency {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#currency {
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 2px solid orangered;
+    background-color: rgb(241, 171, 143);
+}
+
+.donate-now {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#input {
+    padding-bottom: 20px;
 }
