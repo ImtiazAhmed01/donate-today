@@ -1,0 +1,31 @@
+.slogan-text {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 15%;
+}
+
+.details {
+    font-size: 30px;
+    text-align: center;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-size: cover;
+    padding-bottom: 15%;
+    color: white;
+}
+
+.donation-button {
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    font-weight: 500;
+    padding: 10px 30px;
+    border-radius: 5px;
+
+}
