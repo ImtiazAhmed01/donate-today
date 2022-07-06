@@ -1,3 +1,8 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
 .slogan-text {
     text-align: center;
     font-size: 50px;
