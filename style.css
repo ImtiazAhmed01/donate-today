@@ -41,6 +41,7 @@ body {
 .subscribe-button {
     margin-right: -50px;
     margin-top: 50px;
+    margin-left: -5px;
 }
 
 .donation-currency {
@@ -93,11 +94,6 @@ body {
     padding-left: 70px;
 }
 
-.our-donate-plan {
-    text-align: center;
-    padding-top: 100px;
-}
-
 #food {
     text-align: justify;
     width: 50%;
@@ -125,16 +121,6 @@ body {
     background-color: antiquewhite;
 }
 
-.subscribe {
-    background-color: rgb(245, 2149, 209);
-    padding: 5%;
-    margin-top: 3%;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-bottom: 5%;
-    border-radius: 5px;
-}
-
 .motivation {
     display: flex;
 }
@@ -143,14 +129,9 @@ body {
     padding-top: 13%;
 }
 
-.update {
-    text-align: center;
-}
-
 .email {
-
-    padding: 12px 15px;
-    margin-left: 23%;
+    padding: 10px 15px;
+    margin-left: 25%;
     outline: none;
 }
 
